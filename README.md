@@ -1,5 +1,7 @@
 # Weather-API-Alexa-Skill-in-Python
 Here you will know how to use weather api in alexa skill python-hosted
+Test My Alexa SKILL --->> https://www.amazon.in/dp/B081H7XTJ3
+ 
 #prerequisite :
 1. Alexa Developer Account -> https://developer.amazon.com/alexa/console/ask
 2. Open Weather Map account -> https://openweathermap.org/
